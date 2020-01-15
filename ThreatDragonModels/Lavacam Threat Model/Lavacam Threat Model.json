@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Lavacam Threat Model",
-    "owner": "Chris Merkel"
+    "owner": "Chris Merkel",
+    "description": "Does stuff"
   },
   "detail": {
     "contributors": [],
